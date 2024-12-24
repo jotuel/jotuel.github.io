@@ -55,15 +55,15 @@ author:
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
-  keybase          : # Username
+  keybase          : "jwnz"
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "joonastapanituomi"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : "SuperPulu"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
@@ -71,7 +71,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "joonastuomi"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
