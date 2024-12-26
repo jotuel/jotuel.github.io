@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am El JoTu himself, also known as @jotuel. A 30 something [Hive](https://hive.fi),  Helsinki, student and avid skier. That last part might not be entirely true.
+Hi, I am El JoTu himself, also known as @jotuel. 
+A 30 something [Hive](https://hive.fi),  Helsinki, student and avid skier. That last part might not be entirely true.
 
 Projects
 ======
-* Concluded 
+## Concluded 
  * libft
  * get_next_line
  * ft_printf
-* Ongoing 
+## Ongoing 
  * push_swap
  * fract'ol
  * pipex
