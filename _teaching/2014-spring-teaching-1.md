@@ -1,20 +1,15 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Elementary TOI-opetus"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Pakilan ala-aste"
 date: 2014-01-01
-location: "City, Country"
+location: "Helsinki, Finland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Worked as a substitute teacher for TOI-class.
 
-Heading 1
+TOI-class
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+A class for pupils that can't follow the normal education curriculum based on a diagnosed disability.
