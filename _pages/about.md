@@ -12,7 +12,7 @@ Hi, I am El JoTu himself, also known as @jotuel. A 30 something [Hive](https://h
 Projects
 ======
 * Concluded 
-* libft
+** libft
 * get_next_line
 * ft_printf
 * Ongoing 
