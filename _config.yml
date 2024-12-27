@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Joonas Tuomi / Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Joonas Tuomi"
 description              : &description "students personal website"
