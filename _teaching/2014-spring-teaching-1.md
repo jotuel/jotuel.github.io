@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Pakilan ala-aste"
 collection: teaching
 type: "Elementary TOI-opetus"
 permalink: /teaching/2014-spring-teaching-1
