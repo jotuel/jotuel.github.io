@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Joonas Tuomi"
   pronouns         : "he/him"  
-  bio              : "student at large"
+  bio              : "student"
   location         : "Helsinki"
   employer         : "Hive"
-  uri              : "https://hive.fi"
+  uri              : "https://joonastuomi.me"
   email            : "jtuomi@student.hive.fi" 
 
   # Academic websites
