@@ -19,10 +19,15 @@ Projects
  * push_swap
  * fract'ol
  * pipex
+ * minishell
+ * minitalk
+ * philosophers
    
 ## Ongoing 
-* minishell
-* minitalk
-* philosophers
+ * [minirt](https://github.com/jotuel/minirt)
+ * cpp
+ * netpractice
 
+## Sideprojects
+ * [cosmic-fprint](https://github.com/jotuel/cosmic-fprint)
 
