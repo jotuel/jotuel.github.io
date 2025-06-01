@@ -3,7 +3,7 @@ title: "I am just leaving this here as a source of motivation"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-
+{% raw %}
     <div class="canvas-container">
         <span class="loading">Loading...</span>
         <canvas width="1024" height="1024" id="canvas"></canvas>
@@ -31,5 +31,5 @@ collection: portfolio
         };
     </script>
     <script src="/assets/js/demo.js"></script>
-
+{% endraw %}
 For now it's empty.
