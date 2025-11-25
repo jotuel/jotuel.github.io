@@ -1,7 +1,7 @@
 ---
-title: "I am just leaving this here as a source of motivation"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "First graphical project"
+excerpt: "Fract'ol<br/><img src='/images/fractol.png'>"
 collection: portfolio
 ---
 
-For now it's empty.
+<iframe src="https://joonastuomi.me/web" height=1020 width=1020></iframe>

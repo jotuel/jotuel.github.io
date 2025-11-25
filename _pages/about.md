@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am El JoTu himself, also known as @jotuel. 
-A 30 something [Hive](https://hive.fi),  Helsinki, student and avid skier. That last part might not be entirely true.
+Hi, I'm Joonas. 
+A 30 something [Hive](https://hive.fi),  Helsinki, student and Seure gig worker.
 
 Projects
 ======
@@ -16,10 +16,18 @@ Projects
  * libft
  * get_next_line
  * ft_printf
-
-## Ongoing 
  * push_swap
  * fract'ol
  * pipex
+ * minishell
+ * minitalk
+ * philosophers
+   
+## Ongoing 
+ * [minirt](https://github.com/jotuel/minirt)
+ * cpp
+ * netpractice
 
+## Sideprojects
+ * [cosmic-fprint](https://github.com/jotuel/cosmic-fprint)
 
