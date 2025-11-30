@@ -8,26 +8,6 @@ redirect_from:
 ---
 
 Hi, I'm Joonas. 
-A 30 something [Hive](https://hive.fi),  Helsinki, student and Seure gig worker.
+A 30 something [Hive](https://hive.fi),  Helsinki, student and [Seure](https://seure.fi) gig worker currently living in Helsinki as well.
 
-Projects
-======
-## Concluded 
- * libft
- * get_next_line
- * ft_printf
- * push_swap
- * fract'ol
- * pipex
- * minishell
- * minitalk
- * philosophers
-   
-## Ongoing 
- * [minirt](https://github.com/jotuel/minirt)
- * cpp
- * netpractice
-
-## Sideprojects
- * [cosmic-fprint](https://github.com/jotuel/cosmic-fprint)
-
+Right now actively seeking an internship position.
