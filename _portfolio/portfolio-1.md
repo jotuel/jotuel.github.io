@@ -6,7 +6,7 @@ collection: portfolio
 
 <script>
 	window.addEventListener('keydown', function(e) {
-		if(e.keyCode === 32 && e.target == document.body) {
+		if(e.keyCode === 32) {
 			e.preventDefault();
   		} else if(e.keyCode === 38) {
 			e.preventDefault();
