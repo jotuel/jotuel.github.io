@@ -30,7 +30,7 @@
 <body>
     <div class="canvas-container">
         <span class="loading">Loading...</span>
-        <canvas width="1024" height="1024" id="canvas"></canvas>
+        <canvas width="720" height="720" id="canvas"></canvas>
     </div>
     <script src="coi-serviceworker.js"></script>
     <script>
@@ -52,6 +52,17 @@
         };
     </script>
     <script src="demo.js"></script>
+    <script>
+	window.addEventListener('keydown', function(e) {
+                if(e.keyCode === 32) {
+                        e.preventDefault();
+                } else if(e.keyCode === 38) {
+                        e.preventDefault();
+                } else if(e.keyCode === 40) {
+                        e.preventDefault();
+                }
+        });
+   </script>
 </body>
 
 </html>
