@@ -1,5 +1,5 @@
 ---
-title: "Enroll for COSMIC™ DE"
+title: "Enroll"
 excerpt: "A fprintd GUI wrapper made with libcosmic."
 collection: portfolio
 ---
